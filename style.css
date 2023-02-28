@@ -73,10 +73,6 @@
     font-size: var(--fs);
     color: var(--neutral-dark-greyish-clr);
     background-color: var(--primary-cream-clr);
-
-    display: grid;
-    place-content: center;
-    margin: 1rem;
  }
 
  /* utilities */
