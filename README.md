@@ -54,7 +54,7 @@ Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to t
 
 ### What I learned
 
-While creating the Product preview card I tried to use best practices for HTML and CSS. In this project I have learned how to make a website suitabke for screenreader and Visually hidden techniques which allow for content to be hidden from sighted users while still allowing ATs to discover and interact with the content.
+While creating the Product preview card I tried to use best practices for HTML and CSS. In this project I have learned how to make a website suitable for screenreader and Visually hidden techniques which allow for content to be hidden from sighted users while still allowing ATs to discover and interact with the content.
 
 learned about :is() selector in CSS
 
